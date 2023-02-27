@@ -1,6 +1,6 @@
 # Rice-Dataset
 Rice Classification (Commeo and Osmancik)
--matplotlib.pyplot
+-matplotlib
 -pandas
 -keras
 -numpy
